@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BackgroundAccelerometer</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="default_file_path">/sdcard/accel_log.csv</string>
+    <string name="title_activity_dummy">DummyActivity</string>
+</resources>
